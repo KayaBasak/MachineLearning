@@ -18,7 +18,7 @@ The series covers the fundamental concepts behind machine learning, from underst
 | 6 | Overfitting and Underfitting | [Code](#) | [Read Article](https://medium.com/@bskky001/machine-learning-concepts-explained-6-overfitting-and-underfitting-4491c8978436) |
 | 7 | Bias-Variance Tradeoff | [Code](#) | [Read Article](https://medium.com/@bskky001/machine-learning-concepts-explained-7-bias-variance-tradeoff-b05c62e9a92e) |
 | 8 | Cross-Validation | [Code](#) | [Read Article](https://medium.com/@bskky001/machine-learning-concepts-explained-8-cross-validation-8a0822b6d18a) |
-| 9 | Hyperparameter Tuning | [Code](#) | [Read Article](https://medium.com/@bskky001/machine-learning-concepts-explained-10-feature-engineering-99ec50860e56) |
+| 9 | Hyperparameter Tuning | [Code](#) | [Read Article](https://medium.com/@bskky001/machine-learning-concepts-explained-9-hyperparameter-tuning-538ce3ad1f37) |
 | 10 | Feature Engineering | [Code](#) | [Read Article](https://medium.com/@bskky001/machine-learning-concepts-explained-10-feature-engineering-99ec50860e56) |
 | 11 | Linear Regression | [Code](#) | [Read Article](#) |
 | ... | More topics coming soon | | |
