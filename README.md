@@ -27,7 +27,7 @@ This series provides practical, beginner-friendly explanations of fundamental ma
 
 | Part | Topic | Code | Medium |
 |---|---|---|---|
-| 1 | Linear Regression| [Code](https://github.com/KayaBasak/MachineLearning/blob/main/MachineLearningModelsExplained%231LinearRegression.ipynb) | [Read Article](#) |
+| 1 | Linear Regression| [Code](https://github.com/KayaBasak/MachineLearning/blob/main/MachineLearningModelsExplained%231LinearRegression.ipynb) | [Read Article](https://medium.com/@bskky001/machine-learning-models-explained-1-linear-regression-b438e0a472ba) |
 | ... | More topics coming soon | | |
 
 > **Note:** This series is ongoing, with new models, implementations, and explanations added regularly.
