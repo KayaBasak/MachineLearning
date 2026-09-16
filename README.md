@@ -21,6 +21,17 @@ The series covers the fundamental concepts behind machine learning, from underst
 | 9 | Hyperparameter Tuning | [Read Article](https://medium.com/@bskky001/machine-learning-concepts-explained-9-hyperparameter-tuning-538ce3ad1f37) |
 | 10 | Feature Engineering | [Read Article](https://medium.com/@bskky001/machine-learning-concepts-explained-10-feature-engineering-99ec50860e56) |
 
+## 📚 Machine Learning Models Explained
+
+This series provides practical, beginner-friendly explanations of fundamental machine learning models, combining key concepts with Python implementations and examples.
+
+| Part | Topic | Code | Medium |
+|---|---|---|---|
+| 1 | Linear Regression| [Code](https://github.com/KayaBasak/MachineLearning/blob/main/MachineLearningModelsExplained%231LinearRegression.ipynb) | [Read Article](#) |
+| ... | More topics coming soon | | |
+
+> **Note:** This series is ongoing, with new models, implementations, and explanations added regularly.
+
 ## 🛠️ Tools & Technologies
 
 - Python
