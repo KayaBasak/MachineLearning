@@ -31,12 +31,6 @@ The series covers the fundamental concepts behind machine learning, from underst
 - Seaborn
 - Jupyter Notebook / Google Colab
 
-## 📖 Medium
-
-The concepts in this repository are explained in more detail through my Machine Learning Concepts Explained series on Medium.
-
-🔗 Read the full series on Medium [![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/@bskky001)
-
 ## 🚀 More Coming Soon
 
 This repository is continuously being expanded with new machine learning concepts, algorithms, examples, and projects.
